@@ -1,1 +1,2 @@
 # Rating-Product-Sorting-Reviews
+A dataset that contains product ID, reviewername, rating/review and helpfull or not from amazon prodcuts. Rating score of the products are calculated using different methods such as normal averaging, date weighted averaging, difference between helpfull/not helpfull reviews and wilson lower bound. Then, sorting is made the see the best products according to these ratings. 
